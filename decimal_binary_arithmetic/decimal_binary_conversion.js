@@ -65,6 +65,6 @@ function twosComplementToDecimal(binaryArray, signBitExists = true) {
     return decimal;
    }
    
-   // Test the function with a different sample case
+   // to Test
    console.log(twosComplementToDecimal([0, 1, 1, 1, 1], true));
    
